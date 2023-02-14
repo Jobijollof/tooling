@@ -29,6 +29,7 @@ Update the application code in
 ```
 ./html/
 ```
+God is kind
 
 Then add/commit/push to gitlab
 
