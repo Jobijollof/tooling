@@ -27,9 +27,7 @@ git branch -b feature/add-css-style-to-about-us-page
 
 Update the application code in
 ```
-./html/
-```
-God is kind
+./html
 
 Then add/commit/push to gitlab
 
